@@ -19,6 +19,7 @@ Semana 2:
 
 
 Dejo en el siguiente enlace las presentaciones que acompañaron el curso, así como algunos libros que pueden ayudarte a complementar tu aprendizaje.
+
 Presentaciones del curso:
 https://drive.google.com/drive/folders/115plfjt99bEGRG-Yvt9cnCsGU2BtA_eM?usp=sharing
 
