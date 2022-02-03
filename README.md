@@ -1,4 +1,4 @@
-# Curso_R_Estatal
+# Curso R Estatal 31 enero de 2022 a 11 de febrero de 2022
 Códigos del Curso: Introducción al lenguaje de programación R para la visualización de datos.
 
 
@@ -19,4 +19,8 @@ Semana 2:
 
 
 Dejo en el siguiente enlace las presentaciones que acompañaron el curso, así como algunos libros que pueden ayudarte a complementar tu aprendizaje.
+Presentaciones del curso:
 https://drive.google.com/drive/folders/115plfjt99bEGRG-Yvt9cnCsGU2BtA_eM?usp=sharing
+
+Libros del Curso:
+https://drive.google.com/drive/folders/10prNLhDcHfSplRReienw0eAC9KJp_NYr?usp=sharing
